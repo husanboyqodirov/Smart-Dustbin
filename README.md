@@ -65,3 +65,9 @@
 		<td>Python Telegram Bot API (to remote control)</td>
 	</tr>
 </table>
+
+## Sensors Placement
+Sideview
+[](media/sensors_placement.png)  
+Frontview
+[](media/sensors_placement2.png)
