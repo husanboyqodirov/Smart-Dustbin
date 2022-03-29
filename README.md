@@ -10,6 +10,7 @@ It’s so cool that you will not want to throw trash in it. 😆😎
 
 
 ## Hardware and Sensors
+------------ | -------------
 Raspberry Pi 4 | Breadboard
 16 GB MicroSD Card | GPIO connector
 Monitor | microHDMI to HDMI Cable
@@ -20,6 +21,7 @@ Photoresistor | Active Buzzer
 Mini Switch | Jumper Wires
 
 ## Software
+------------ | -------------
 Raspberry Pi OS | Python 3.10
 Thony IDE | GPIO libraries
 PiCamera | Adafruit_DHT
