@@ -10,6 +10,7 @@ It’s so cool that you will not want to throw trash in it. 😆😎
 
 
 ## Hardware and Sensors
+First Header | Second Header
 ------------ | -------------
 Raspberry Pi 4 | Breadboard
 16 GB MicroSD Card | GPIO connector
@@ -21,6 +22,7 @@ Photoresistor | Active Buzzer
 Mini Switch | Jumper Wires
 
 ## Software
+First Header | Second Header
 ------------ | -------------
 Raspberry Pi OS | Python 3.10
 Thony IDE | GPIO libraries
