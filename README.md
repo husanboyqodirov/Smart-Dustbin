@@ -1,12 +1,11 @@
-# smart-dustbin
-Smart Dustbin developed in Raspberry Pi.  
+# Smart Dustbin (Raspberry Pi)
 
-The purpose of our project is to provide a supervision device for intelligent waste bin. This device integrates several sensors to supervise the state of the trash. 
-Smart Dustbin is simply speaking a trash bin that automatically opens when you come close to throw trash.  
-It has a blind mode feature that helps blind people to locate the bin before throwing trash.  
-It can even be used as a secret surveillance tool or room condition checker.  
-Combination of many sensors.  
-It’s so cool that you will not want to throw trash in it. 😆😎  
+* The purpose of our project is to provide a supervision device for intelligent waste bin. This device integrates several sensors to supervise the state of the trash. 
+* Smart Dustbin is simply speaking a trash bin that automatically opens when you come close to throw trash.  
+* It has a blind mode feature that helps blind people to locate the bin before throwing trash.  
+* It can even be used as a secret surveillance tool or room condition checker.  
+* Combination of many sensors.  
+* It’s so cool that you will not want to throw trash in it. 😆😎  
 
 
 ## Hardware and Sensors
