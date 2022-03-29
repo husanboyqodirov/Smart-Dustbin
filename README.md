@@ -9,8 +9,7 @@ Combination of many sensors.
 It’s so cool that you will not want to throw trash in it. 😆😎  
 
 
-## Hardware and Sensors
-First Header | Second Header
+Hardware and Sensors
 ------------ | -------------
 Raspberry Pi 4 | Breadboard
 16 GB MicroSD Card | GPIO connector
