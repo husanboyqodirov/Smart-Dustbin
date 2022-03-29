@@ -9,32 +9,61 @@ Combination of many sensors.
 It’s so cool that you will not want to throw trash in it. 😆😎  
 
 
-Hardware and Sensors
-First Header | Second Header
------------- | -------------
+## Hardware and Sensors
 
 <table>
 	<tr>
 		<td>Raspberry Pi 4</td>
 		<td>Breadboard</td>
 	</tr>
+	<tr>
+		<td>16 GB MicroSD Card</td>
+		<td>GPIO connector</td>
+	</tr>
+	<tr>
+		<td>Monitor</td>
+		<td>microHDMI to HDMI Cable</td>
+	</tr>
+	<tr>
+		<td>Keyboard and Mouse</td>
+		<td>Ultrasonic sensor</td>
+	</tr>
+	<tr>
+		<td>Camera</td>
+		<td>Temperature and Humidity Sensor</td>
+	</tr>
+	<tr>
+		<td>RGB LED</td>
+		<td>Servo Motor</td>
+	</tr>
+	<tr>
+		<td>Photoresistor</td>
+		<td>Active Buzzer</td>
+	</tr>
+	<tr>
+		<td>Mini Switch</td>
+		<td>Jumper Wires</td>
+	</tr>
+
 </table>
-Raspberry Pi 4 | Breadboard
-16 GB MicroSD Card | GPIO connector
-Monitor | microHDMI to HDMI Cable
-Keyboard and Mouse | Ultrasonic sensor
-Camera | Temperature and Humidity Sensorh
-RGB LED | Servo Motor
-Photoresistor | Active Buzzer
-Mini Switch | Jumper Wires
 
 ## Software
-Raspberry Pi OS | Python 3.10
------------- | -------------
-Thony IDE | GPIO libraries
-PiCamera | Adafruit_DHT
-Telegram Messenger | Python Telegram Bot API (to remote control)
 
-[]()  | 
-------|------
-Row 1 | row 2
+<table>
+	<tr>
+		<td>Raspberry Pi Imager</td>
+		<td>Python 3.10</td>
+	</tr>
+	<tr>
+		<td>Thony IDE</td>
+		<td>GPIO libraries</td>
+	</tr>
+	<tr>
+		<td>PiCamera</td>
+		<td>Adafruit_DHT</td>
+	</tr>
+	<tr>
+		<td>Telegram Messenger</td>
+		<td>Python Telegram Bot API (to remote control)</td>
+	</tr>
+</table>
