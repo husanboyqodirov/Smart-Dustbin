@@ -12,6 +12,13 @@ It’s so cool that you will not want to throw trash in it. 😆😎
 Hardware and Sensors
 First Header | Second Header
 ------------ | -------------
+
+<table>
+	<tr>
+		<td>Raspberry Pi 4</td>
+		<td>Breadboard</td>
+	</tr>
+</table>
 Raspberry Pi 4 | Breadboard
 16 GB MicroSD Card | GPIO connector
 Monitor | microHDMI to HDMI Cable
