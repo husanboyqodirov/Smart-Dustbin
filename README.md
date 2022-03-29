@@ -22,14 +22,12 @@ Photoresistor | Active Buzzer
 Mini Switch | Jumper Wires
 
 ## Software
-First Header | Second Header
------------- | -------------
 Raspberry Pi OS | Python 3.10
+------------ | -------------
 Thony IDE | GPIO libraries
 PiCamera | Adafruit_DHT
 Telegram Messenger | Python Telegram Bot API (to remote control)
 
-|   |   |
-|---|---|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
+[]()  | 
+------|------
+Row 1 | row 2
