@@ -71,3 +71,13 @@
 ## Sensors Placement
 ![](media/sensors_placement.png)  
 ![](media/sensors_placement2.png)
+
+## Features & Testing
+* Servo Motor automatically opens dustbin cover when Ultrasonic Sensor detects an object within 50cm.
+* RGB alerts by turning Red, Green, Blue colors consecutively for a short moment.
+* If blind mode is enabled, Active Buzzer makes a sound for blind person to locate the dustbin.
+* Closes cover automatically after 3 seconds.
+
+<video width="320" height="240" controls>
+  <source src="media/testing.mp4" type="video/mp4">
+</video>
