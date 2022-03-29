@@ -6,6 +6,8 @@
 * It can even be used as a secret surveillance tool using camera or room condition checker for temperature and light.   
 * It’s so cool that you will not want to throw trash in it. 😆😎  
 
+![](media/picture.png)
+
 
 ## Hardware and Sensors
 
@@ -68,6 +70,6 @@
 
 ## Sensors Placement
 Sideview
-[](media/sensors_placement.png)  
+![](media/sensors_placement.png)  
 Frontview
-[](media/sensors_placement2.png)
+![](media/sensors_placement2.png)
