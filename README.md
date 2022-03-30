@@ -78,6 +78,18 @@
 * If blind mode is enabled, Active Buzzer makes a sound for blind person to locate the dustbin.
 * Closes cover automatically after 3 seconds.
 
-<video width="320" height="240" controls>
-  <source src="media/testing.mp4" type="video/mp4">
-</video>
+> Testing video  
+[![Testing video](https://www.pngkit.com/png/full/118-1185200_youtube-frame-youtube.png)](https://youtu.be/YzPtPHuyT6g)
+
+## Remote Control Features & Testing
+* Send command with your smartphone or laptop if Telegram Messenger is installed
+* Can open dustbin cover, closes after 3 seconds
+* Check room temperature
+* Check room brightness: dark or light
+* Play melody
+* Surveillance: take picture of your room
+
+![](media/remote_control_screenshot.png)  
+
+> Remote control testing video  
+[![Remote Control Testing Video](https://www.pngkit.com/png/full/118-1185200_youtube-frame-youtube.png)](https://youtu.be/F2Wyy5eU9tc)
