@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# coded with love by Husanboy Qodirov
+
 import logging
 from telegram import Update, ForceReply
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
