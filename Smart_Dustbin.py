@@ -1,3 +1,5 @@
+# coded with love by Husanboy Qodirov
+
 #Libraries
 import RPi.GPIO as GPIO
 from gpiozero import Servo, Buzzer
