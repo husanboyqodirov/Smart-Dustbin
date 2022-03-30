@@ -78,4 +78,4 @@
 * If blind mode is enabled, Active Buzzer makes a sound for blind person to locate the dustbin.
 * Closes cover automatically after 3 seconds.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/YzPtPHuyT6g)
+[![Testing Video](https://dev.ueuo.com/download/testing_screenshot.png)](https://youtu.be/YzPtPHuyT6g)
