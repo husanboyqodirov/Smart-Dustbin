@@ -1,6 +1,6 @@
 # Smart Dustbin (Raspberry Pi)
 
-![](https://www.pngkit.com/png/detail/51-513503_pi-raspberry-pi-logo.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFR5q6S9tyT6UVH8BSHt69aKR9ohcYL5GlX7ejmWb8qrweSmLDAJWKcJlonoJ3fJRpSA&usqp=CAU)
 
 * The purpose of our project is to provide a supervision device for intelligent waste bin. This device integrates several sensors to manage the state of the trash. 
 * Smart Dustbin is simply speaking a trash bin that automatically opens when you come close to throw trash.  
